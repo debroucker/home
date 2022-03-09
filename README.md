@@ -13,23 +13,24 @@ The github repo is private, because is a client app.
 Spring boot with Kotlin, HTML, CSS, jQuery with JS
 ## Screen of user root
 ### Choose a piercing parlor:
-![](rdv-piercing/1.JPEG)
+![](rdv-piercing/1.png)
 ### Fill the form to take an appointment:
-![](rdv-piercing/2.JPEG)
+![](rdv-piercing/2.png)
 ### Take appointment and show it:
-![](rdv-piercing/3.JPEG)
+![](rdv-piercing/3.png)
 ### Receive an email the day before:
 ![](rdv-piercing/8.JPEG)
 ## Screen of admin root
-There isn't all pages of admin here.
 ### Main of admin root:
-![](rdv-piercing/4.JPEG)
+![](rdv-piercing/4.png)
 ### Client informations:
-![](rdv-piercing/5.JPEG)
+![](rdv-piercing/5.jpg)
 ### Add a piercing:
-![](rdv-piercing/6.JPEG)
+![](rdv-piercing/7.png)
 ### Show all piercings:
-![](rdv-piercing/7.JPEG)
+![](rdv-piercing/6.png)
+### Show and update hours:
+![](rdv-piercing/8.png)
 
 
 # SARL Delattre Horaire
@@ -39,7 +40,7 @@ This is an intern app to take work hours. The client is a green space company. T
 Microservice, Spring boot with Java, Flask with Python, HTML, CSS, jQuery with JS
 ## Screen of app
 ### Fill the form:
-![](sarl-delattre/1.JPEG)
+![](sarl-delattre/1.jpg)
 ### Show all hours:
 ![](sarl-delattre/2.JPEG)
 
@@ -54,6 +55,6 @@ Python, HTML, CSS
 ![](cod/1.JPEG)
 ### Stats for each games:
 ![](cod/2.JPEG)
-### Stats of each players for each games:
+### Stats of each players, for each games:
 ![](cod/3.JPEG)
 
