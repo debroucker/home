@@ -10,7 +10,7 @@ Link of app: https://rdv-piercing.cleverapps.io
 This is an app for piercing appointment. You go on the site, choose your piercing parlor and take an appointment.
 The github repo is private, because is a client app.
 ## Programming language
-Spring boot with Kotlin, HTML, CSS, jQuery with JS
+Spring boot with Kotlin, HTML, CSS, jQuery with JS, PostreSQL
 ## Screen of user root
 ### Choose a piercing parlor:
 ![](rdv-piercing/1.png)
