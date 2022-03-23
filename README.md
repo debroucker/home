@@ -19,7 +19,7 @@ Spring boot with Kotlin, HTML, CSS, jQuery with JS, PostreSQL
 ### Take appointment and show it:
 ![](rdv-piercing/3.png)
 ### Receive an email the day before:
-![](rdv-piercing/8.JPEG)
+![](rdv-piercing/9.jpeg)
 ## Screen of admin root
 ### Main of admin root:
 ![](rdv-piercing/4.png)
